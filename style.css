@@ -1,0 +1,42 @@
+a:visited {
+    color: red;
+}
+
+a:link {
+    color: red;
+}
+
+.active {
+    color: darkblue;
+}
+
+.topnav {
+    background-color: black
+    overflow: hidden;
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Annie Use Your Telescope';
+    border-style: solid;
+    border-width: medium;
+    border-color: black
+}
+
+body {
+    background-color: rgba(163, 135, 99, 0.795);
+    font-family: 'Annie Use Your Telescope'
+}
+
+p.solid {
+    border-style: solid;
+    border-width: medium;
+    border-color: rgba(156, 105, 37, 0.493)
+}
+header {
+font-size: 48px;
+text-align: center;
+font-family: 'Annie Use Your Telescope'
+}

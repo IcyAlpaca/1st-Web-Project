@@ -26,6 +26,7 @@ a:link {
 }
 
 body {
+    background-image: url("leather.jpg");
     background-color: rgba(163, 135, 99, 0.795);
     font-family: 'Annie Use Your Telescope';
     font-size: 18px;
@@ -34,7 +35,9 @@ body {
 p.solid {
     border-style: solid;
     border-width: medium;
-    border-color: rgba(156, 105, 37, 0.493);
+    border-color: black;
+    background-color: black;
+    color: white;
 }
 header {
 font-size: 48px;
@@ -44,7 +47,7 @@ border-style: solid;
 border-width: thin;
 border-color: black;
 background-color: black;
-color: white
+color: white;
 }
 
 h2 {
@@ -53,7 +56,7 @@ border-style: solid;
 border-width: thin;
 border-color: black;
 background-color: black;
-color: white
+color: white;
 }
 
 .button {
@@ -75,7 +78,7 @@ color: white
 
   .container {
     padding: 20px;
-    background-color: Tan;
+    background-color: rgba(163, 135, 99, 0.795);
   }
 
 input[type=text], input[type=submit] {

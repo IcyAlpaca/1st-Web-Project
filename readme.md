@@ -4,3 +4,11 @@ I used implementations from html, css, and bootstrap.
 In the future, I want to clean the page up make it look a lot smoother. I also want to add more functions such as an interactive map of the Inn itself perhaps. In addition, I want to blend the different sections of each page, to give it a more natural feel to it. 
 
 As an aside, all the pictures I used were from doing simple Google searches. All credit to those images should go to the photographers or artists that they belong to.
+
+
+
+
+User Stories
+As an adventurer, I want to learn more about Inns in my area.
+As a traveler, I want to easily reserve rooms before I get to an Inn.
+As a food connoseur, I want to know what foods are available at Inns.
